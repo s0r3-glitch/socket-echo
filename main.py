@@ -1,4 +1,4 @@
-
+# stolen from https://gist.github.com/limingzju/6483619 made to work in python 3
 # Echo server program
 import socket
 
